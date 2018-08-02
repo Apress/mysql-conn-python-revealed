@@ -1,0 +1,5 @@
+# ID, Value
+1,"abcdef..."
+2,"MySQL Connector/Python is fun"
+3,"Smileys require utf8mb4"
+4,🐬
